@@ -184,7 +184,7 @@ body {
 }
 
 .book-selected {
-  border: 3px solid var(--blue-color) !important;
+  border: 3px solid var(--blue-color) 
   background: var(--light-blue-color) !important;
   transform: translateY(-2px);
   box-shadow: 0 6px 16px var(--dark-blue-color) 50%;
@@ -198,8 +198,8 @@ body {
   color: var(--white-color);
   border: none;
   border-radius: 50%;
-  width: 25px;
-  height: 25px;
+  width: 24px;
+  height: 24px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -208,7 +208,7 @@ body {
   cursor: pointer;
   opacity: 0;
   transition: opacity 0.2s ease, background 0.2s ease;
-  z-index: 2;
+  z-index: 10;
 }
 
 .book-container:hover .remove-button {

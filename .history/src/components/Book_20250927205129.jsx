@@ -32,7 +32,7 @@ function Book({data, onRemove}) {
         onClick={handleRemove}
         title="Remove book"
       >
-       X
+        ×
       </button>
     </div>
   );

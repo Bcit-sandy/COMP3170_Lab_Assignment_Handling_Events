@@ -34,7 +34,7 @@ function App() {
             <Add />
           </div>
           <Main>
-            {books.map(getBooks)}
+            {data.map(getBooks)}
           </Main>
         </div>
       </main>
