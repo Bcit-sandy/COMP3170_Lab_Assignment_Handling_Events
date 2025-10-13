@@ -13,3 +13,4 @@ Modify the Book component so that it displays the book's price instead of the au
 Here is a live example: https://yveshema.github.io/comp3170-book-catalog-v2/ 
 
 # COMP3170_Lab_Assignment_Handling_Events
+# COMP3170_Lab4
